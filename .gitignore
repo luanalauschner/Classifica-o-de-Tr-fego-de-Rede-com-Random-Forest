@@ -1,0 +1,26 @@
+# Dataset CICIDS2017
+dados/
+
+# Resultados gerados pelo programa
+resultados/
+resultados_binarios/
+resultados_multiclasse/
+resultados_*/
+
+# Modelos treinados
+*.joblib
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Configurações locais
+.vscode/
+.idea/
